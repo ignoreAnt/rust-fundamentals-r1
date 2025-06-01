@@ -1,0 +1,6 @@
+[package]
+name = "rust-fundamentals-r1"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
