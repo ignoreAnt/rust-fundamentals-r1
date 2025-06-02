@@ -8,6 +8,10 @@ fn main() {
   let quotient = num1 / num2; //
 Integer division
 
-  println!("
+  println!("Sum; {}", sum);
+  println!("Difference; {}", difference);
+  println!("Product: {}", product);
+  println! ("Quotient (integer division): {}", quotient);
+}
 
 
