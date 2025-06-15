@@ -1,5 +1,8 @@
 fn multiply(a: i32, b: i32) -> i32 {
-    a * b 
+    if a == 0 || b == 0{
+       return   0
+    }
+    a * b
 }
 
 fn main() {
